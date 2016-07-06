@@ -1,0 +1,25 @@
+    1  ls 
+    2  ls -la
+    3  sudo rm -r .git
+    4  git clone -b master https://github.com/emvarg/LXS2_evargas.git
+    5  cd 
+    6  ls 
+    7  cd LXS2_evargas/
+    8  LS
+    9  ls
+   10  git remote add mirepo https://github.com/oscargarcia123/LXS2_OSCARG.git
+   11  git remote -v
+   12  git remote remove origin
+   13  git remote -v
+   14  git push -u mirepo master
+   15  cd ..
+   16  ls
+   17  cd oscar/
+   18  mkdir history
+   19  ls
+   20  history > history/history_05072016
+   21  ls
+   22  cd LXS2_evargas/
+   23  ls
+   24  mkdir history
+   25  history > history/history_05072016
