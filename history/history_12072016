@@ -1,0 +1,62 @@
+    1  sudo su -
+    2  sudo -su
+    3  sudo su
+    4  sudo apt-get install git
+    5  sudo apt-get install tree
+    6  pwd
+    7  ls -l
+    8  cd ..
+    9  exit
+   10  ls
+   11  cd /home/
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd ..
+   16  cd /
+   17  ls
+   18  cd 
+   19  pwd
+   20  git clone https://github.com/oscargarcia123/LXS2_OSCARG.git
+   21  ls
+   22  cd LXS2_OSCARG/
+   23  LS
+   24  ls
+   25  cd history/
+   26  ls
+   27  > history_12072016
+   28  ls
+   29  cd ..
+   30  ls
+   31  git statd
+   32  git statud
+   33  git status
+   34  git add history/history_12072016 
+   35  git status
+   36  git commit -m
+   37  git push -u origin master 
+   38  git status
+   39  git commit -m "history lvm"
+   40  git config --global user.email "oscarg1677@gmail.com"
+   41  git config --global user.name "Oscar Garcia"
+   42  git commit -m "history lvm"
+   43  git log
+   44  git remote -v
+   45  git push -u origin master 
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd .
+   50  ls
+   51  exit
+   52  clear
+   53  sudo -s
+   54  pwd
+   55  ls
+   56  sudo -s
+   57  ls -l
+   58  cd LXS2_OSCARG/
+   59  ls
+   60  cd history/
+   61  ls
+   62  history > history_12072016
