@@ -1,0 +1,170 @@
+    1  nmap 10.124.18.129
+    2  ifconfig 
+    3  nmap localhost
+    4  sudo fdisk -l
+    5  sudo fdisk -l | less
+    6  sudo fdisk -l
+    7  sudo su -
+    8  ls
+    9  ls' l
+   10  ls
+   11  sudo su -
+   12  cd /tmp/
+   13  ls
+   14  mkdir algo
+   15  ls
+   16  cd algo/
+   17  ls
+   18  touch file}
+   19  touch file{1,2,3,4}
+   20  ls
+   21  ls -l
+   22  touch file{casa,perro,gato}
+   23  ls -l
+   24  touch {casa,perro,gato}
+   25  ls -l
+   26  ls -lt
+   27  man lvcreate 
+   28  id 
+   29  ls -l
+   30  git add history-root_12072016-ubn000 
+   31  git commit -m "History de root en clase de LVM. Parte 1"
+   32  git push origin master 
+   33  id
+   34  w
+   35  ls
+   36  tree LXS2_evargas/
+   37  sudo apt-get install tree
+   38  tree LXS2_evargas/
+   39  cd LXS2_evargas/
+   40  ls
+   41  cd history/
+   42  l;s
+   43  ls
+   44  ls -l
+   45  history > history_12072016_$HOSTNAME
+   46  ls -l
+   47  #git add history_12072016_ubn000 
+   48  git status 
+   49  ls
+   50  git add history_12072016_ubn000 
+   51  git status 
+   52  git commit -m "History de la clase de LVM. Parte 1"
+   53  git config --global user.email "emmanuel.vargas@ucr.ac.cr"
+   54  git config --global user.name "Emmanuel V"
+   55  git status 
+   56  ls ~/.gitconfig 
+   57  cat ~/.gitconfig 
+   58  git commit -m "History de la clase de LVM. Parte 1"
+   59  git log 
+   60  git push origin master 
+   61  history 
+   62  ls
+   63  git remote -v
+   64  history 
+   65  sudo su -
+   66  is ..
+   67  ls ..
+   68  ls
+   69  git clone https://github.com/emvarg/LXS2_evargas.git
+   70  sudo apt-get install git
+   71  ls
+   72  git clone https://github.com/emvarg/LXS2_evargas.git
+   73  cd LXS2_evargas/
+   74  ls
+   75  ls -l
+   76  cd history/
+   77  l;s
+   78  ls
+   79  ls -l
+   80  ls
+   81  #git clone https://github.com/emvarg/LXS2_evargas.git
+   82  history
+   83  ssh uk@163.178.110.7
+   84  ls
+   85  cd LXS2_evargas/
+   86  ls
+   87  mkdir scripts
+   88  cd scripts/
+   89  vim TMP_vir.sh
+   90  ls
+   91  git add TMP_vir.sh 
+   92  git commit -m "Archivo para maquinas virtuales"
+   93  git push origin master 
+   94  cd /tmp/
+   95  ls
+   96  git clone https://github.com/emvarg/LXS2_evargas.git
+   97  cd LXS2_evargas/
+   98  git pull origin master
+   99  ls /tmp/
+  100  ls
+  101  cd scripts/
+  102  ls
+  103  ls -l
+  104  #cp TMP_vir.sh ~/LXS2_evargas/scripts/
+  105  ls
+  106  cd 
+  107  cd LXS2_evargas/
+  108  ls
+  109  cd scripts/
+  110  ls
+  111  vim TMP_vir.sh 
+  112  ls
+  113  cp TMP_vir.sh cnts00.sh
+  114  git checkout -- TMP_vir.sh
+  115  vim TMP_vir.sh 
+  116  git status 
+  117  git add cnts00.sh 
+  118  git commit -m "script para crear maquina en centos "
+  119  git push origin master 
+  120  ls-l
+  121  ls -l
+  122  cd /tmp/
+  123  ls
+  124  cd LXS2_evargas/
+  125  ls
+  126  git loh 
+  127  git log
+  128  git pull origin master
+  129  ;s
+  130  ls
+  131  ls scripts/
+  132  cd 
+  133  cd LXS2_evargas/
+  134  ls
+  135  cd s
+  136  ls
+  137  cd scripts/
+  138  ls
+  139  ls- l
+  140  ls -l 
+  141  ./cnts00.sh
+  142  cat cnts00.sh
+  143  which bash
+  144  ls -l
+  145  chmod 750 cnts00.sh 
+  146  ls- l
+  147  ls -l
+  148  sudo ./cnts00.sh 
+  149  cat cnts00.sh 
+  150  git status 
+  151  history 
+  152  ls
+  153  ls /srv/
+  154  mkdir /srv/servidores
+  155  sudo mkdir /srv/servidores
+  156  ls /var/lib/libvirt/images/
+  157  sudo ls /var/lib/libvirt/images/
+  158  cd Downloads/
+  159  ls
+  160  pwd
+  161  id
+  162  #sudo usermod -a -G libvirtd sysadmin 
+  163  # Ese comando no se ejecuto porque ubuntu lo hizo automaticamente, en sistemas como centos, hay que hacerlo
+  164  sudo su -
+  165  cd LXS2_evargas/
+  166  ls
+  167  ls -l
+  168  cd history/
+  169  ls
+  170  history > history_12072016_ubn000-FinalDeClase 
