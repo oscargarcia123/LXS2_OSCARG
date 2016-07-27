@@ -1,14 +1,15 @@
-#!/bin/bash
+#! /bin/bash
+
 DATA=/home/useradmin/LXS2_OSCARG/hojasExcel/hojasDatos
-#DATA=/home/LXS2_OSCARG/hojasExcel/hojasDatos
 #DATA=/home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos
 
 mkdir $DATA/datos_csv
+
 OUT_DATA=$DATA/datos_csv
 
 m=0
 
- for i in `find $DATA -name "*.xls"`   
+f✬✯✳1❧s✬or i in 'find $DATA -name '*.xls' '
 do
 	echo "Procesando archivo $i"
 
