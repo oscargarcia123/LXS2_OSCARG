@@ -1,6 +1,6 @@
 #! /bin/bash
 
-DATA=/home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos
+DATA=/home/useradmin/LXS2_OSCARG/hojasExcel/hojasDatos
 mkdir $DATA/datos_csv
 
 OUT_DATA=$DATA/datos_csv
