@@ -1,0 +1,10 @@
+[   22.328581] init: plymouth-upstart-bridge main process ended, respawning
+[   22.412451] cgroup: systemd-logind (894) created nested cgroup for controller "memory" which has incomplete hierarchy support. Nested cgroups may change behavior in the future.
+[   22.412454] cgroup: "memory" requires setting use_hierarchy to 1 on the root
+[   24.804814] bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+[   24.878808] nf_conntrack version 0.5.0 (16384 buckets, 65536 max)
+[   47.865235] audit_printk_skb: 174 callbacks suppressed
+[   47.865239] audit: type=1400 audit(1469233300.478:70): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=2467 comm="apparmor_parser"
+[   47.865244] audit: type=1400 audit(1469233300.478:71): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=2467 comm="apparmor_parser"
+[   47.865533] audit: type=1400 audit(1469233300.478:72): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=2467 comm="apparmor_parser"
+[ 2043.207921] perf interrupt took too long (2506 > 2500), lowering kernel.perf_event_max_sample_rate to 50000

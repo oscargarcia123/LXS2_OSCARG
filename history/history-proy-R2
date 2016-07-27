@@ -1,0 +1,325 @@
+## Los comandos usandos en el proyecto 1 no funciona puede 
+## revisar mi history si es algo que estoy haciendo mal 
+ 
+ 527  pwd
+  528  ls
+  529  cd LXS2_OSCARG/
+  530  ls
+  531  cd history/
+  532  ls
+  533  nano history-proy01-R1
+  534  ls
+  535  cat history-proy01-R1 
+  536  cd /usr/bin
+  537  ls
+  538  ls -l
+  539  nano awk1
+  540  nano awk
+  541  file awk
+  542  clear
+  543  cd ..
+  544  ls
+  545  ip -4 addr
+  546  tree
+  547  cd /home/sysadmin/LXS2_OSCARG/
+  548  ls
+  549  cd hojasExcel/hojasDatos/
+  550  ls
+  551  cd datos_csv/
+  552  ls
+  553  iconv -f iso-8859-1 -t utf-8 dato-0.csv >> dato.utf-8.out
+  554  ls
+  555  ls -la
+  556  cat dato.utf-8.out 
+  557  file dato.utf-8.out 
+  558  xls2csv dato.utf-8.out >>dato.csv
+  559  xls2csv dato-0.csv >>dato.csv
+  560  cat dato.utf-8.out 
+  561  -xlv da
+  562  clear
+  563  cd ..
+  564  ls
+  565  cd src/
+  566  ls
+  567  cat problema1.sh 
+  568  cd ..
+  569  cls
+  570  ls
+  571  cd hojasExcel/hojasDatos/ls
+  572  cd hojasExcel/
+  573  ls
+  574  cd hojasDatos/
+  575  ls
+  576  cd datos_csv/
+  577  ls
+  578  xs ..
+  579  ls
+  580  cd ..
+  581  cd..
+  582  cd ..
+  583  ls
+  584  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\","" ’{print $1 " " $2 " " $4 " " $5}’ | haad
+  585  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\","" ’{print $1 " " $2 " " $4 " " $5}’ | head
+  586  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " "
+  587  cd ..
+  588  ls
+  589  cd hojasExcel/
+  590  ls
+  591  cd hojasDatos/
+  592  ls
+  593  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  594  cat datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  595  ls
+  596  cd datos_csv/
+  597  ls
+  598  cat datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  599  ;s
+  600  ls
+  601  clear
+  602  ls -la
+  603  chmod +x dato-0.csv 
+  604  chmod +x dato.utf-8.out 
+  605  ls -la
+  606  cat datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  607  cd ..
+  608  cat datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  609  ls
+  610  xls2csv datos.xls datos.csv
+  611  xls2csv datos1.xls /datos_csv/datos1.csv
+  612  ls
+  613  cd datos_csv/
+  614  ls
+  615  cd ..
+  616  cat datos1.xls 
+  617  clear
+  618  ls
+  619  xls2csv datos1.xls datos1.csv
+  620  clear
+  621  tree
+  622  cd ..
+  623  tree
+  624  cd ..
+  625  tree
+  626  cd problema1/
+  627  l
+  628  cat Datos 
+  629  iconv -f iso-8859-1 -t utf-8 Datos >> datos.utf-8.out
+  630  ls
+  631  file datos.utf-8.out 
+  632  cd..
+  633  cd ..
+  634  ls
+  635  cd hojasExcel/
+  636  ls
+  637  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" cat: awk: 1: unexpected character 0xe2
+  638  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5}’ | head
+  639  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{print $1 " " $2 " " $3 " " $4 " " $5 }’ | head
+  640  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1 " " $2 " " $3 " " $4 " " $5 }’ | head
+  641  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1 "_" $2 "_" $3 "_" $4 "_" $5 }’ | head
+  642  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1 "" $2 "" $3 "" $4 "" $5 }’ | head
+  643  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 }’ | head
+  644  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5< }’ | head
+  645  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 ; }’ | head
+  646  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 ;}’ | head
+  647  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 }’; | head
+  648  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2,"" $3 "" $4 "" $5 }’ | head
+  649  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1 "" $2"" $3 "" $4 "" $5 }’ | head
+  650  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" { print $1 "" $2"" $3 "" $4 "" $5 } | head
+  651  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" {print $1 "" $2"" $3 "" $4 "" $5} | head
+  652  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" {print $1 " " $2" " $3 " " $4 " " $5} | head
+  653  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  654  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | sed '1,$ s/"//g'| head
+  655  ls
+  656  cd hojasDatos/
+  657  ls
+  658  cat datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  659  cat datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | sed '1,$ s/"//g'| head
+  660  cat datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | sed '1,$ s/"//g'| head
+  661  tree
+  662  cat datos.csv
+  663  nano datos.csv
+  664  cat datos_csv/dato-0.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  665  cat datos_csv/dato.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  666  ls
+  667  cat datos_csv/dato.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  668  tree
+  669  ls
+  670  cd..
+  671  cd ..
+  672  ls
+  673  cat hojasDatos/datos_csv/dato.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  674  l
+  675  la
+  676  ls
+  677  cd hojasDatos/
+  678  ls
+  679  cd datos_csv/
+  680  ls
+  681  tree
+  682  cd ..
+  683  ls
+  684  cd src/
+  685  ls
+  686  tree
+  687  cat problema1.sh 
+  688  cd ..
+  689  clear
+  690  tree
+  691  ls
+  692  cd src/
+  693  ls
+  694  cat error1.log 
+  695  file error1.log 
+  696  cat error1.log 
+  697  ls
+  698  nano problema1.sh 
+  699  ./problema1.sh 
+  700  cd ..
+  701  ls
+  702  cd LXS2_OSCARG/
+  703  ls
+  704  cd hojasExcel/hojasDatos/
+  705  ls
+  706  cd datos_csv/
+  707  ls
+  708  cd ..
+  709  ls
+  710  rm datos_csv/
+  711  ls
+  712  cd datos_csv/
+  713  ls
+  714  rm dato-0.csv 
+  715  rm dato.csv 
+  716  ls
+  717  rm dato.utf-8.out 
+  718  ls
+  719  cd ..
+  720  ls
+  721  rm datos_csv/
+  722  ls
+  723  cd ..
+  724  ls
+  725  cd ..
+  726  ls
+  727  cd problema1/
+  728  ls
+  729  cd ..
+  730  cd src/
+  731  ls
+  732  ./problema1.sh 
+  733  nano problema1.sh 
+  734  ./problema1.sh 
+  735  ls
+  736  cd ..
+  737  ls
+  738  cd hojasExcel/
+  739  ls
+  740  cd hojasDatos/
+  741  ls
+  742  cd datos_csv/
+  743  ls
+  744  ls -la
+  745  cd ..
+  746  ls
+  747  cd ..
+  748  ls
+  749  cd ..
+  750  ls
+  751  cd src/
+  752  ls
+  753  nano problema1.sh 
+  754  tree
+  755  cd ..
+  756  tree
+  757  ls
+  758  cd src/
+  759  ls
+  760  nano problema1.sh 
+  761  ./problema1.sh 
+  762  cd ..
+  763  tree
+  764  cd src/
+  765  ls
+  766  nano problema1.sh 
+  767  ./problema1.sh 
+  768  cd ..
+  769  tree
+  770  cd..
+  771  exit
+  772  pwd
+  773  history 
+  774  cd LXS2_OSCARG/
+  775  LS
+  776  ls
+  777  tree
+  778  cd src/
+  779  ls
+  780  nano problema1.sh 
+  781  ./problema1.sh 
+  782  ls
+  783  cd ..
+  784  ls
+  785  cd hojasExcel/hojasDatos/
+  786  ls
+  787  cd datos_csv/
+  788  ls
+  789  tree
+  790  cd ..
+  791  cd ,,
+  792  cd ..
+  793  cd LXS2_OSCARG/
+  794  ls
+  795  tree
+  796  cat /hojasExcel/hojasDatos/datos_csv/dato.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  797  cat /hojasExcel/hojasDatos | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  798  cat Datos
+  799  cd problema1/
+  800  ls
+  801  cat datos.utf-8.out 
+  802  cat Datos 
+  803  cd ..
+  804  ls
+  805  cd ..
+  806  ls
+  807  pwd
+  808  history 
+  809  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 }’; | head
+  810  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  811  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -f "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  812  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  813  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  814  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $5 }' | head
+  815  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 }' | head
+  816  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $0 }' | head
+  817  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -f "\",\"" '{ print $1 }' | head
+  818  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk "\",\"" '{ print $1 }' | head
+  819  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\',\" " '{ print $1 }' | head
+  820  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\''{ print $1 }' | head
+  821  ls
+  822  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\''{ print $1 }' | head
+  823  cd /home/sysadmin/LXS2_OSCARG/
+  824  ls
+  825  tree
+  826  cat /home/sysadmin/LXS2_OSCARG/src/Datos | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  827  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  828  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  "\" , \"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  829  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  830  sudo apt-get install awk
+  831  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1, $2, $3, $4, $5 }' | head
+  832  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  833  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  834  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '{ print $1, $2, $3, $4, $5 }' | head
+  835  cd hojasExcel/
+  836  ls
+  837  cd hojasDatos/
+  838  ls
+  839  xls2csv datos1.xls >>datos1.csv
+  840  ls
+  841  tree
+  842  cd hojasDatos/cd ..
+  843  cd ..
+  844  cd .
+  845  cd ..
+  846  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos1.csv | awk -F '{ print $1, $2, $3, $4, $5 }' | head
+  847  ls
+

@@ -1,0 +1,266 @@
+261  sudo rmp-Uhv htt://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rmp
+  262  sudo apt-get rmp-Uhv htt://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rmp
+  263  sudo apt-get htt://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64.rmp
+  264  sudo rpm-Uhv htt://packages.sw.be/rpmforge-release/rpmforge-release-0.5.2-2.el6.rf.x86_64rpm
+  265  ls
+  266  exit
+  267  sudo apt-get install catdoc
+  268  sudo apt-get update
+  269  xls2csv arcivo.xls >>archivo.csv
+  270  xls2csv arcivo.xls >> archivo.csv
+  271  xls2csv archivo.xls >> archivo.csv
+  272  xls2csv archivo.xls>>archivo.csv
+  273  ls
+  274  sudo xls2csv archivo.xls>>archivo.csv
+  275  ls
+  276  sudo -s
+  277  less archivo.csv 
+  278  pwd
+  279  clear
+  280  ls
+  281  tree
+  282  cd LXS2_OSCARG/
+  283  ls
+  284  clear
+  285  tree
+  286  mkdir hojasExel
+  287  tree
+  288  cd hojasExel/
+  289  ls
+  290  ls -la
+  291  mkdir hojasDatos
+  292  cd ..
+  293  tree
+  294  cd hojasExel/hojasDatos/
+  295  ls -l
+  296  cd ..
+  297  ls
+  298  cd sysadmin/
+  299  ls
+  300  cd Dow
+  301  cd Downloads/
+  302  ls
+  303  cd Proyecto-de-Programacion/
+  304  ls
+  305  cd problema
+  306  cd problemaa
+  307  cd problema1
+  308  ls
+  309  cd hojasDatos/
+  310  ls
+  311  ls -la
+  312  cd ..
+  313  cd cd ..
+  314  cd ..
+  315  cd /home/sysadmin/LXS2_OSCARG/
+  316  ls
+  317  cd src/
+  318  ls
+  319  vim problema1.sh
+  320  nano problema1.sh
+  321  tree
+  322  cd ..
+  323  tree
+  324  ls
+  325  mkdir problema1
+  326  ls
+  327  cd ..
+  328  cd /home/sysadmin/Downloads/
+  329  ls
+  330  cd Proyecto-de-Programacion/
+  331  ls
+  332  cd problema1
+  333  ls
+  334  cp Datos /home/sysadmin/LXS2_OSCARG/problema1/
+  335  ls
+  336  cd .
+  337  cd /home/sysadmin/LXS2_OSCARG/problema1/
+  338  ls
+  339  tree
+  340  cd ..
+  341  ls
+  342  clear
+  343  ls
+  344  cd src/
+  345  ls
+  346  vim problema1.sh 
+  347  nano problema1.sh 
+  348  ls
+  349  cd ..
+  350  ls
+  351  cd hojasExel/hojasDatos/
+  352  ls
+  353  ls -la
+  354  mkdir datos_csv
+  355  ls
+  356  cd ..
+  357  ls
+  358  cd ..
+  359  ls
+  360  cd problema1/
+  361  ls
+  362  cd ..
+  363  cd LXS2_OSCARG/
+  364  ls
+  365  cd src/
+  366  ls
+  367  ./problema1.sh
+  368  sudo ./problema1.sh
+  369  ls -la
+  370  chmod problema1.sh x
+  371  chmod +x problema1.sh 
+  372  ls -la
+  373  ./problema1.sh
+  374  clear
+  375  ./problema1.sh
+  376  tree
+  377  ./problema1.sh
+  378  ls
+  379  cd ...
+  380  cd ..
+  381  ls
+  382  tree
+  383  ls
+  384  cd hojasExel/hojasDatos/
+  385  ls
+  386  cd datos_csv/
+  387  ls
+  388  file data-0.csv 
+  389  clear
+  390  ls
+  391  file  data-0.csv 
+  392  icon
+  393  iconv
+  394  cd..
+  395  cd ..
+  396  ls
+  397  pwd
+  398  iconv -f iso-8859-1 -t utf-8 Datos >> datos.utf-8.out
+  399  cd ..
+  400  cd home/sysadmin/LXS2_OSCARG/
+  401  ls
+  402  cd src/
+  403  ls
+  404  cd ..
+  405  ls
+  406  cd hojasExel/hojasDatos/
+  407  ls
+  408  cd datos_csv/
+  409  ls
+  410  iconv -f iso-8859-1 -t utf-8 Datos >> datos.utf-8.out
+  411  tree
+  412  file datos.utf-8.out 
+  413  iconv -f iso-8859-1 -t utf-8 Datos >> datos.utf-8.out
+  414  cd...
+  415  cd ..
+  416  tree
+  417  cd ..
+  418  tree
+  419  cd hojasExel/hojasDatos/datos_csv/
+  420  ls
+  421  iconv -f iso-8859-1 -t utf-8 hojasDatos >> datos.utf-8.out
+  422  ls
+  423  iconv -f iso-8859-1 -t utf-8 hojasExel >> datos.utf-8.out
+  424  ls
+  425  sudo iconv -f iso-8859-1 -t utf-8 hojasDatos >> data.utf-8.out
+  426  ls
+  427  fie data.utf-8.out 
+  428  cd ..
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd src/
+  433  ls
+  434  nano problema1.sh 
+  435  sudo iconv -f iso-8859-1 -t utf-8 hojasDatos >> data.utf-8.out
+  436  nano problema1.sh ls
+  437  nano problema1.sh
+  438  ls
+  439  ./problema1.sh 
+  440  cd ..
+  441  ls
+  442  cd hojasExcel/hojasDatos/
+  443  ls
+  444  cd datos_csv/
+  445  ls
+  446  tree
+  447  iconv -f iso-8859-1 -t utf-8 hojasDatos >> dato.utf-8.out
+  448  iconv -f iso-8859-1 -t utf-8 >> dato.utf-8.out
+  449  tree
+  450  iconv -f iso-8859-1 -t utf-8 dato-0.csv >> dato.utf-8.out
+  451  ls
+  452  file dato.utf-8.out 
+  453  tree
+  454  rm data-0.csv 
+  455  rm data.utf-8.out 
+  456  tree
+  457  rm datos.utf-8.out 
+  458  ls
+  459  tree
+  460  exit
+  461  ls
+  462  pwd
+  463  ls -ls
+  464  cd Downloads/
+  465  ls
+  466  tar xvf Proyecto-de-Programacion.tar.gz 
+  467  ls
+  468  cd Proyecto-de-Programacion/
+  469  ls
+  470  cd problema
+  471  cd problema1
+  472  ls
+  473  cd hojasDatos/
+  474  ls
+  475  mv datos1.xls datos2.xls datos3.xls datos4.xls datos5.xls /home/sysadmin/LXS2_OSCARG/hojasExel/hojasDatos/
+  476  ls 
+  477  ls /l
+  478  sudo mv datos1.xls datos2.xls datos3.xls datos4.xls datos5.xls /home/sysadmin/LXS2_OSCARG/hojasExel/hojasDatos/
+  479  cd ..
+  480  ls
+  481  cd LXS2_OSCARG/
+  482  ls
+  483  tree
+  484  cd hojasExel/hojasDatos/
+  485  xls2csv datos_csv.xls >>datos_csv.csv
+  486  ls
+  487  tree
+  488  xls2csv datos_csv.xls >>datos_csv
+  489  tree
+  490  rm datos_csv.csv 
+  491  tree
+  492  cd ..
+  493  cd  /home/sysadmin/Downloads/
+  494  ls
+  495  cd Proyecto-de-Programacion/
+  496  ls
+  497  cd problema
+  498  ls
+  499  cd problema
+  500  cd problema1
+  501  ls
+  502  cd hojasDatos/
+  503  ls
+  504  cd ..
+  505  ls
+  506  less Datos 
+  507  cd ..
+  508  cd ...
+  509  pwd
+  510  cd /home/sysadmin/LXS2_OSCARG/
+  511  tree
+  512  cd /home/sysadmin/LXS2_OSCARG/
+  513  ls
+  514  clear
+  515  ls
+  516  cd hojasExel/hojasDatos/
+  517  ls
+  518  rm datos_csv 
+  519  ls
+  520  cat datos_csv/
+  521  cat datos_csv
+  522  cd ..
+  523  clear
+  524  tree
+  525  history 
+
