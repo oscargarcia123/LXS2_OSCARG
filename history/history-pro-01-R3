@@ -1,0 +1,449 @@
+ 776  ls
+  777  tree
+  778  cd src/
+  779  ls
+  780  nano problema1.sh 
+  781  ./problema1.sh 
+  782  ls
+  783  cd ..
+  784  ls
+  785  cd hojasExcel/hojasDatos/
+  786  ls
+  787  cd datos_csv/
+  788  ls
+  789  tree
+  790  cd ..
+  791  cd ,,
+  792  cd ..
+  793  cd LXS2_OSCARG/
+  794  ls
+  795  tree
+  796  cat /hojasExcel/hojasDatos/datos_csv/dato.csv | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  797  cat /hojasExcel/hojasDatos | awk -F "\",\"" '{print $1 " " $2" " $3 " " $4 " " $5}' | head
+  798  cat Datos
+  799  cd problema1/
+  800  ls
+  801  cat datos.utf-8.out 
+  802  cat Datos 
+  803  cd ..
+  804  ls
+  805  cd ..
+  806  ls
+  807  pwd
+  808  history 
+  809  cat hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" ’{ print $1, "" $2, "" $3, "" $4, "" $5 }’; | head
+  810  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  811  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -f "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  812  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  813  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  814  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $5 }' | head
+  815  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $1 }' | head
+  816  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F "\",\"" '{ print $0 }' | head
+  817  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -f "\",\"" '{ print $1 }' | head
+  818  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk "\",\"" '{ print $1 }' | head
+  819  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\',\" " '{ print $1 }' | head
+  820  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\''{ print $1 }' | head
+  821  ls
+  822  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F'\''{ print $1 }' | head
+  823  cd /home/sysadmin/LXS2_OSCARG/
+  824  ls
+  825  tree
+  826  cat /home/sysadmin/LXS2_OSCARG/src/Datos | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  827  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '\',\"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  828  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  "\" , \"" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  829  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  830  sudo apt-get install awk
+  831  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1, $2, $3, $4, $5 }' | head
+  832  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  ", \" '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  833  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '{ print $1 " " $2 " " $3 " " $4 " " $5 }' | head
+  834  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F '{ print $1, $2, $3, $4, $5 }' | head
+  835  cd hojasExcel/
+  836  ls
+  837  cd hojasDatos/
+  838  ls
+  839  xls2csv datos1.xls >>datos1.csv
+  840  ls
+  841  tree
+  842  cd hojasDatos/cd ..
+  843  cd ..
+  844  cd .
+  845  cd ..
+  846  cat /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos1.csv | awk -F '{ print $1, $2, $3, $4, $5 }' | head
+  847  ls
+  848  cd history/
+  849  ls
+  850  cat history-proy01-R1 
+  851  clear
+  852  cd ..
+  853  history
+  854  ls
+  855  cd history/
+  856  ls
+  857  nano history-proy-R2
+  858  cd //
+  859  ls
+  860  cd cd home/
+  861  ls
+  862  cd ..
+  863  cd /home/sysadmin/LXS2_OSCARG/
+  864  ls
+  865  cd history/
+  866  ls
+  867  git pull
+  868  ls
+  869  git add history-proy-R2 
+  870  git add history-proy01-R1 
+  871  git status
+  872  git add hojasExcel
+  873  cd ..
+  874  cd hojasExcel/
+  875  cla
+  876  cd hojasDatos/
+  877  ls
+  878  git add datos1.xls 
+  879  git add datos2.xls 
+  880  git add datos3.xls 
+  881  git add datos4.xls 
+  882  git add datos5.xls 
+  883  git add datos_csv
+  884  git status
+  885  cd ..
+  886  cd problema1/
+  887  ls
+  888  git add Datos 
+  889  git add datos.utf-8.out 
+  890  git status
+  891  cd..
+  892  cd ..
+  893  cd src/
+  894  ls
+  895  git add problema1.sh 
+  896  git add error1.log 
+  897  git status
+  898  cd ..
+  899  cd hojasExcel/hojasDatos/
+  900  ls
+  901  rm datos1.csv 
+  902  ls
+  903  git status
+  904  git commit -m "Practica de Proyecto 1 Revisar Puntos "
+  905  git push origin master 
+  906  git pull
+  907  cd ..
+  908  ls
+  909  awk 'BEGIN {print "Hola Mundo"; exit }'
+  910  awk '{print $1, $3}' ejamplo.txt
+  911  cd ..
+  912  ls
+  913  cd sysadmin/
+  914  ls
+  915  cd LXS2_OSCARG/
+  916  LS
+  917  ls
+  918  cd hojasExcel/
+  919  l
+  920  ls
+  921  cd hojasDatos/
+  922  ls
+  923  awk '{print $1, $3}' datos1.xls 
+  924  awk '{print $1 "" $3 ""}' datos1.xls 
+  925  awk '{print $1 " " $3 " "}' datos1.xls 
+  926  cd ..
+  927  ls
+  928  cd hojasDatos/
+  929  ls
+  930  cd datos_csv/
+  931  ls
+  932  awk '{print $1 " " $3 " "}' dato-0.csv 
+  933  awk -F '{print $1 " " $3 " "}' dato-0.csv 
+  934  awk  '{print $1 " " $2 " "}' dato-0.csv 
+  935  ls
+  936  cd ..
+  937  ls
+  938  cd ..
+  939  ls
+  940  cd ..
+  941  ls
+  942  cd problema1/
+  943  ls
+  944  awk  '{print $1 " " $2 " "}' Datos 
+  945  awk -F '{print $1 " " $2 " "}' Datos 
+  946  awk -F '{print $1 " " $2 " "}' | heas
+  947  awk -F '{print $1 " " $2 " "}' | head
+  948  cat Datos| awk -F "\",\"" '{print $1 " " $2 " "}' | head
+  949  cat Datos| awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+  950  clear
+  951  cat Datos| awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+  952  clear
+  953  ls
+  954  cd ..
+  955  ls
+  956  cd hojasExcel/hojasDatos/
+  957  ls
+  958  cd datos_csv/
+  959  ls
+  960  cat dato-0.csv| awk -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+  961  ls -ls
+  962  ls -ls /home/sysadmin/LXS2_OSCARG/problema1/Datos 
+  963  cd ..
+  964  ls
+  965  cd ..
+  966  ls
+  967  cd problema1/
+  968  ls
+  969  cd ..
+  970  ls
+  971  cd src/
+  972  ls
+  973  nano problema1.sh 
+  974  ./problema1.sh 
+  975  ls
+  976  cat error1.log 
+  977  ./problema1.sh 
+  978  nano problema1.sh 
+  979  ./problema1.sh 
+  980  nano problema1.sh 
+  981  ./problema1.sh 
+  982  ls
+  983  cd LXS2_OSCARG/
+  984  ls
+  985  cd hojasExcel/hojasDatos/
+  986  ls
+  987  rm datos_csv
+  988  cd datos_csv/
+  989  ls
+  990  rm dato-0.csv 
+  991  ls
+  992  cd ..
+  993  ls
+  994  rm datos_csv/
+  995  sudo rm datos_csv/
+  996  ls
+  997  sudo rm datos_csv
+  998  cd..
+  999  sudo rm datos_csv
+ 1000  sudo rm datos_csv/
+ 1001  ls
+ 1002  cd ..
+ 1003  sudo rm datos_csv/
+ 1004  ls
+ 1005  cd LXS2_OSCARG/
+ 1006  ls
+ 1007  cd problema1/
+ 1008  ls
+ 1009  cd ..
+ 1010  cd src/
+ 1011  ls
+ 1012  nano problema1.sh 
+ 1013  cd problema1/
+ 1014  ./problema1.sh 
+ 1015  nano problema1.sh 
+ 1016  ls
+ 1017  cd ..
+ 1018  ls
+ 1019  cd hojasExcel/
+ 1020  ls
+ 1021  xls2csv datos1.xls >>datos1.csv
+ 1022  ls
+ 1023  cat dato-0.csv| awk datos1.csv -F "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1024  cat dato-0.csv| awk datos1.csv  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1025  cat  awk datos1.csv -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1026  awk datos1.csv -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1027  awk datos1.csv -F  "\"\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1028  awk datos1.csv -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1029  \exit
+ 1030  pwd
+ 1031  sudo apt-get install catdoc 
+ 1032  apt-get install catdoc 
+ 1033  sudo apt-get upgrade
+ 1034  ls
+ 1035  cd LXS2_OSCARG/
+ 1036  ls
+ 1037  tree
+ 1038  cd problema1/
+ 1039  ls
+ 1040  cd ..
+ 1041  cd src/
+ 1042  ls
+ 1043  nano problema1.sh 
+ 1044  ./problema1.sh 
+ 1045  cd ..
+ 1046  cd LXS2_OSCARG/
+ 1047  ls
+ 1048  cd hojasExcel/
+ 1049  ls
+ 1050  cd hojasDatos/
+ 1051  ls
+ 1052  cd datos_csv/
+ 1053  la
+ 1054  ls
+ 1055  xls2csv /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos1.xls >>dato-1.csv 
+ 1056  xls2csv /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos2.xls >>dato-2.csv 
+ 1057  xls2csv /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos3.xls >>dato-3.csv 
+ 1058  xls2csv /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos4.xls >>dato-4.csv 
+ 1059  xls2csv /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/datos5.xls >>dato-5.csv 
+ 1060  ls
+ 1061  cd ..
+ 1062  tree
+ 1063  cd ..
+ 1064  pwd
+ 1065  cat
+ 1066  clear
+ 1067  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/ awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1068  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1069  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/ | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1070  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-0.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1071  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-1.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1072  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-2.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1073  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-3.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1074  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-5.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1075  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-4.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | head
+ 1076  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-1.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed ’1,$ s/"//g’ | sed ’ s/date/#date/g’ | head
+ 1077  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-1.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' |sed ’1,$ s/"//g’ | sed ’ s/date/#date/g’ | head
+ 1078  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-1.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' |sed ’1,$ s/"//g’ |sed ’ s/date/#date/g’ | head
+ 1079  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-1.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed '1,$ s/"//g' |sed ' s/date/#date/g' | head
+ 1080  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-2.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed '1,$ s/"//g' |sed ' s/date/#date/g' | head
+ 1081  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-3.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed '1,$ s/"//g' |sed ' s/date/#date/g' | head
+ 1082  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-4.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed '1,$ s/"//g' |sed ' s/date/#date/g' | head
+ 1083  cat LXS2_OSCARG/hojasExcel/hojasDatos/datos_csv/dato-5.csv | awk -F  "\",\"" '{print $1 " " $2 " " $3 " " $4 " " $5 " "}' | sed '1,$ s/"//g' |sed ' s/date/#date/g' | head
+ 1084  cd LXS2_OSCARG/
+ 1085  ls
+ 1086  cd src/
+ 1087  ls
+ 1088  cat data.utf-8.out 
+ 1089  file data.utf-8.out 
+ 1090  clear
+ 1091  ls
+ 1092  vim problema1.sh 
+ 1093  apt-get install vim
+ 1094  sudo apt-get install vim
+ 1095  sudo apt-get install vi
+ 1096  clear
+ 1097  nano problema1.sh 
+ 1098  ./problema1.sh 
+ 1099  cd ..
+ 1100  tree
+ 1101  cd src/
+ 1102  ls
+ 1103  nano problema1.sh 
+ 1104  ./problema1.sh 
+ 1105  nano problema1.sh 
+ 1106  ./problema1.sh 
+ 1107  CD ..
+ 1108  TREE
+ 1109  tree
+ 1110  cd ..
+ 1111  tree
+ 1112  ./problema1.sh 
+ 1113  cd. src/
+ 1114  ls
+ 1115  cd src/
+ 1116  l
+ 1117  nano problema1.sh 
+ 1118  ./problema1.sh 
+ 1119  nano problema1.sh 
+ 1120  ./problema1.sh 
+ 1121  cd ..
+ 1122  cd cd ..
+ 1123  cd ..
+ 1124  sudo apt-get install gnuplot
+ 1125  gnuplt
+ 1126  gnuplot
+ 1127  sudo apt-get install gnuplot-x11
+ 1128  sudo apt-get install gnuplot-nox
+ 1129  cd /home/sysadmin/LXS2_OSCARG/hojasExcel/hojasDatos/
+ 1130  ls
+ 1131  cd datos_graf/
+ 1132  ls
+ 1133  unplot graf-m.dat 
+ 1134  exit
+ 1135  ls
+ 1136  cd LXS2_OSCARG/
+ 1137  ls
+ 1138  git pull
+ 1139  tree
+ 1140  cd ..
+ 1141  ls
+ 1142  tree
+ 1143  ls
+ 1144  cd LXS2_OSCARG/
+ 1145  git pull
+ 1146  tree
+ 1147  ls
+ 1148  cd src/
+ 1149  ls
+ 1150  nano problema1.sh 
+ 1151  clear
+ 1152  cd ..
+ 1153  git pull
+ 1154  git push origin master 
+ 1155  git push remote 
+ 1156  clear
+ 1157  cd ..
+ 1158  git remote add origin master
+ 1159  cd LXS2_OSCARG/
+ 1160  git remote add origin master
+ 1161  cd ..
+ 1162  git clone https://github.com/oscargarcia123/LXS2_OSCARG.git
+ 1163  ls
+ 1164  cd LXS2_OSCARG
+ 1165  ls
+ 1166  tree
+ 1167  ls
+ 1168  cd LXS2_OSCARG
+ 1169  ls
+ 1170  git pull
+ 1171  ls
+ 1172  git pull
+ 1173  ls
+ 1174  cd scripts/
+ 1175  ls
+ 1176  cd ..
+ 1177  cd src/
+ 1178  ls
+ 1179  nano problema1.sh
+ 1180  ./problema1.sh
+ 1181  nano problema1.sh
+ 1182  ./problema1.sh
+ 1183  nano problema1.sh
+ 1184  ./problema1.sh
+ 1185  cd ..
+ 1186  ls
+ 1187  tree
+ 1188  cd src/
+ 1189  ./problema1.sh
+ 1190  nano problema1.sh
+ 1191  ./problema1.sh
+ 1192  nano problema1.sh
+ 1193  ./problema1.sh
+ 1194  nano problema1.sh
+ 1195  ./problema1.sh
+ 1196  nano problema1.sh
+ 1197  ./problema1.sh
+ 1198  nano problema1.sh
+ 1199  ./problema1.sh
+ 1200  CD..
+ 1201  cd ..
+ 1202  clear
+ 1203  tree
+ 1204  git pull 
+ 1205  git status
+ 1206  git add hojasExcel/hojasDatos/datos_csv/dato-0.csv 
+ 1207  git add hojasExcel/hojasDatos/datos_csv/dato-1.csv 
+ 1208  git add hojasExcel/hojasDatos/datos_csv/dato-2.csv 
+ 1209  git add hojasExcel/hojasDatos/datos_csv/dato-3.csv 
+ 1210  git add hojasExcel/hojasDatos/datos_csv/dato-4.csv 
+ 1211  git add hojasExcel/hojasDatos/datos_graf/ 
+ 1212  git add src/error2.log 
+ 1213  git status
+ 1214  git add src/problema1.sh 
+ 1215  git status
+ 1216  git commit -m "Scrip para realizar los graficos de los sensores "
+ 1217  git push origin master 
+ 1218  git pull
+ 1219  ls
+ 1220  cd history/
+ 1221  ls
+ 1222  cd ..
+ 1223  history
+
